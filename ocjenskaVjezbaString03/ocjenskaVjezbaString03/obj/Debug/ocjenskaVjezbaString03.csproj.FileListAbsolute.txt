@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\ocjenskaVjezbaString03\ocjenskaVjezbaString03\bin\Debug\ocjenskaVjezbaString03.exe.config
+C:\Users\Učenik\source\repos\ocjenskaVjezbaString03\ocjenskaVjezbaString03\bin\Debug\ocjenskaVjezbaString03.exe
+C:\Users\Učenik\source\repos\ocjenskaVjezbaString03\ocjenskaVjezbaString03\bin\Debug\ocjenskaVjezbaString03.pdb
+C:\Users\Učenik\source\repos\ocjenskaVjezbaString03\ocjenskaVjezbaString03\obj\Debug\ocjenskaVjezbaString03.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\ocjenskaVjezbaString03\ocjenskaVjezbaString03\obj\Debug\ocjenskaVjezbaString03.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\ocjenskaVjezbaString03\ocjenskaVjezbaString03\obj\Debug\ocjenskaVjezbaString03.exe
+C:\Users\Učenik\source\repos\ocjenskaVjezbaString03\ocjenskaVjezbaString03\obj\Debug\ocjenskaVjezbaString03.pdb
